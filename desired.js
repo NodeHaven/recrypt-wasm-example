@@ -6,7 +6,7 @@ export function existing() {
 
   // Methods that are changed have NoSign postfix, not stuck to this naming though
 
-  //Generate both a user key pair and a signing key pair
+  //Generate a user key pair
   const userKeys = Api256.generateKeyPair();
 
   //Generate a plaintext to encrypt
