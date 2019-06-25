@@ -1,0 +1,17 @@
+{
+  "name": "wasm-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "existing.js",
+  "scripts": {
+    "start": "next"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ironcorelabs/recrypt-wasm-binding": "^0.4.3",
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
